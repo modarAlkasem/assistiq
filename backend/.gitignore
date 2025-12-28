@@ -1,0 +1,19 @@
+venv
+# Django
+db.sqlite3
+
+# Python
+__pycache__
+*.pyc
+
+# testing
+.coverage
+htmlcov
+.pytest_cache
+
+# Documentation
+schema.yml
+
+# env files
+.env
+.env.local
